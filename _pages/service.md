@@ -7,7 +7,7 @@ author_profile: true
 
 Teaching Service
 -----
-- Undergraduate Functional Analysis, [[Solution Manual to Kreszig's "Introduction to Functional Analysis"]](https://www.overleaf.com/read/gqrgmncshvd
+- Undergraduate Functional Analysis, [[Solution Manual to Kreszig's "Introduction to Functional Analysis"]](https://www.overleaf.com/read/gqrgmncshvds
 )
 
 
