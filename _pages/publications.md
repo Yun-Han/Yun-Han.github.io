@@ -25,7 +25,7 @@ Journal Papers
 
 Conference Papers
 -----
-1. **Y. Huang**, Q. Zhu, "Cross-Layer Coordinated Jamming and actuator Attacks on Cyber-Physical Systems," European Control Conference, Invited Papers, Under Review, 2021.
+1. **Y. Huang**, Q. Zhu, "Cross-Layer Coordinated Jamming and actuator Attacks on Cyber-Physical Systems," European Control Conference, Invited Papers, Accepted, 2021.
 1. **Y. Huang**, Q. Zhu, "Deceptive reinforcement learning under adversarial manipulations on cost signals," 10th International Conference on Decision and Game Theory for Security, pp. 217-237, 2019. 
 1. **Y. Huang**, V. Kavitha, Q. Zhu, "Continuous-Time Markov Decision Processes with Controlled Observations," 57th Annual Allerton Conference on Communication, Control, and Computing, pp. 32-39, 2019.
 1. **Y. Huang**, Q. Zhu, "Achieving Social Optimum in Dynamic Weight Adaptation for Virus Mitigation: A Potential Differential Game Approach," IFAC-PapersOnline, vol. 52, issue 20, pp. 241-246, 2019.
