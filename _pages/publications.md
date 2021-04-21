@@ -14,7 +14,7 @@ Journal Papers
 1. **Y. Huang**, Q. Zhu, "A Pursuit-Evasion Differential Game with Strategic Information Acquisition," Automatica, Submitted, 2020. [PDF]
 1. **Y. Huang**, Q. Zhu, "Infinite-Horizon Linear-Quadratic-Gaussian Control with Costly Measurements", IEEE Transactions on Automatic Control, Submitted, 2020. [PDF](https://arxiv.org/pdf/2012.14925.pdf)
 1. **Y. Huang**, Z. Xiong. Y. Huang, "Cross-Layer Coordinated Attacks on Cyber-Physical Systems: A LQG Game Framework with Controlled Observations," arXiv preprint arXiv:2012.02384, 2020. [PDF](https://arxiv.org/pdf/2012.02384.pdf)
-1. *J. Chen, **Y. Huang**, R. Zhang, Q. Zhu, "Optimal quarantining strategy for interdependent epidemics spreading over complex networks," IEEE Transactions on Signal and Information Processing over Network, Second Revision.*
+1. J. Chen, **Y. Huang**, R. Zhang, Q. Zhu, "Optimal quarantining strategy for interdependent epidemics spreading over complex networks," IEEE Transactions on Signal and Information Processing over Network, Accepted, 2021.
 1. **Y. Huang**, J. Chen, L. Huang, Q. Zhu, "Dynamic games for secure and resilient control system design," National Science Review, vol. 7, issue 7, pp. 1125-1141, 2020.
 1. **Y. Huang**, Q. Zhu, "A Differential Game Approach to Decentralized Virus-Resistant Weight Adaptation Policy over Complex Networks," IEEE Transactions on Control of Network Systems, vol. 7, no. 2, pp.944-955, 2020.
 1. Y. Feng, L. Ding, **Y. Huang**, L. Zhang, "Epidemic spreading on weighted networks with adaptive topology based on infective information," Physica A: Statistical Mechanics and its Applications, vol. 463, pp.493-502, 2016.
