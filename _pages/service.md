@@ -28,9 +28,10 @@ Professional Activities
 - IEEE Transactions on Smart Grid
 - IEEE Transactions on Network Science and Engineering
 - IEEE Transactions on Computational Social Systems
-- IEEE Conference on Decision and Control (CDC)
 - IEEE International Conference on Control & Automation
 - IEEE Internet of Things
+- Dynamic Games and Applications
+- IEEE Conference on Decision and Control (CDC)
 - American Control Conference (ACC)
 - Conference on Decision and Game Theory for Security (GameSec)
 
