@@ -19,7 +19,7 @@ Professional Activities
 
 **Technical Reviewer:**
 
-***Control Community***
+***Control & Game***
 
 - Automatica
 - IEEE Transactions on Cybernetics
@@ -30,13 +30,15 @@ Professional Activities
 - IEEE Transactions on Computational Social Systems
 - IEEE Conference on Decision and Control (CDC)
 - IEEE International Conference on Control & Automation
+- IEEE Internet of Things
 - American Control Conference (ACC)
 - Conference on Decision and Game Theory for Security (GameSec)
 
-***AI Community***
+***Learning & Artificial Intelligence***
 - International Conference on Machine Learning (ICML)
 - Journal of Machine Learning Research (JMLR)
 - Conference on Neural Information Processing Systems (NeurIPS)
+- International Conference on Learning Representations (ICLR)
 
 ***Statistical Physics Community***
 - Journal of Statistical Mechanics: Theory and Experiment
