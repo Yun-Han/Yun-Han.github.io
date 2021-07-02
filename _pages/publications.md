@@ -6,7 +6,8 @@ author_profile: true
 ---
 Book Chapters
 -----
-1. **Y. Huang**, Q. Zhu, "Manipulating Reinforcement Learning: Poisoning Attacks on Cost Signals," Wiley-IEEE Press, ISBN: 978-1-119-72392-9, to appear. [PDF](https://arxiv.org/pdf/2002.03827.pdf){: reversed="reversed"}
+1. **Y. Huang**, Q. Zhu, "Manipulating Reinforcement Learning: Poisoning Attacks on Cost Signals," Wiley-IEEE Press, ISBN: 978-1-119-72392-9, to appear. [PDF](https://arxiv.org/pdf/2002.03827.pdf)
+{: reversed="reversed"}
 
 Journal Papers
 -----
@@ -22,7 +23,8 @@ Journal Papers
 1. Y. Feng, L. Ding, **Y. Huang**, L. Zhang, "Epidemic spreading on weighted networks with adaptive topology based on infective information," Physica A: Statistical Mechanics and its Applications, vol. 463, pp.493-502, 2016.
 1. **Y. Huang**, L. Ding, Y. Feng, J. Pan, "Epidemic spreading in random walkers with heterogeneous interaction radius," Journal of Statistical Mechanics: Theory and Experiment, vol. 2016, no. 10, pp. 103501, 2016.
 1. Y. Feng, L. Ding, **Y. Huang**, Z. Guan, "Epidemic spreading on random surfer networks with infected avoidance strategy," Chinese Physics B, vol. 25, no. 12, pp. 128903, 2016.
-1. **Y. Huang**, L. Ding, Y. Feng, "A novel epidemic spreading model with decreasing infection rate based on infection times," Physica A: Statistical Mechanics and its Applications, vol. 444, pp. 1041-1048, 2016.{: reversed="reversed"}
+1. **Y. Huang**, L. Ding, Y. Feng, "A novel epidemic spreading model with decreasing infection rate based on infection times," Physica A: Statistical Mechanics and its Applications, vol. 444, pp. 1041-1048, 2016.
+{: reversed="reversed"}
 
 Conference Papers
 -----
@@ -32,7 +34,8 @@ Conference Papers
 1. **Y. Huang**, Q. Zhu, "Cross-Layer Coordinated Jamming and actuator Attacks on Cyber-Physical Systems," European Control Conference, Invited Papers, To Appear, 2021.
 1. **Y. Huang**, Q. Zhu, "Deceptive reinforcement learning under adversarial manipulations on cost signals," 10th International Conference on Decision and Game Theory for Security, pp. 217-237, 2019. 
 1. **Y. Huang**, V. Kavitha, Q. Zhu, "Continuous-Time Markov Decision Processes with Controlled Observations," 57th Annual Allerton Conference on Communication, Control, and Computing, pp. 32-39, 2019.
-1. **Y. Huang**, Q. Zhu, "Achieving Social Optimum in Dynamic Weight Adaptation for Virus Mitigation: A Potential Differential Game Approach," IFAC-PapersOnline, vol. 52, issue 20, pp. 241-246, 2019.{: reversed="reversed"}
+1. **Y. Huang**, Q. Zhu, "Achieving Social Optimum in Dynamic Weight Adaptation for Virus Mitigation: A Potential Differential Game Approach," IFAC-PapersOnline, vol. 52, issue 20, pp. 241-246, 2019.
+{: reversed="reversed"}
 
 Patents
 -----
