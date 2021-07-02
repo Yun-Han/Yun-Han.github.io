@@ -11,19 +11,20 @@ Book Chapters
 
 Journal Papers
 -----
-0. **Y. Huang**, L. Huang, Q.Zhu, "Reinforcement Learning for Feedback-Enabled Cyber Resilience", Annual Review in Control, Submitted, 2021.[PDF]
-0. **Y. Huang**, Q. Zhu, "Game-Theoretic Frameworks for Epidemic Spreading and Human Decision Making: A Review," Dynamic Games and Applications, Submitted, 2021. [PDF](https://arxiv.org/pdf/2106.00214.pdf)
-0. **Y. Huang**, Q. Zhu, "A Pursuit-Evasion Differential Game with Strategic Information Acquisition," Automatica, Submitted, 2020. [PDF](https://arxiv.org/abs/2102.05469)
-0. **Y. Huang**, Q. Zhu, "Infinite-Horizon Linear-Quadratic-Gaussian Control with Costly Measurements", IEEE Transactions on Automatic Control, Submitted, 2020. [PDF](https://arxiv.org/pdf/2012.14925.pdf)
-0. **Y. Huang**, Z. Xiong. Y. Huang, "Cross-Layer Coordinated Attacks on Cyber-Physical Systems: A LQG Game Framework with Controlled Observations," arXiv preprint arXiv:2012.02384, 2020. [PDF](https://arxiv.org/pdf/2012.02384.pdf)
-0. J. Chen, **Y. Huang**, R. Zhang, Q. Zhu, "Optimal curing strategy for competing epidemics spreading over complex networks," IEEE Transactions on Signal and Information Processing over Network, vol. 7, pp.294-308, 2021.
-0. **Y. Huang**, J. Chen, L. Huang, Q. Zhu, "Dynamic games for secure and resilient control system design," National Science Review, vol. 7, issue 7, pp. 1125-1141, 2020.
-0. **Y. Huang**, Q. Zhu, "A Differential Game Approach to Decentralized Virus-Resistant Weight Adaptation Policy over Complex Networks," IEEE Transactions on Control of Network Systems, vol. 7, no. 2, pp.944-955, 2020.
-0. Y. Feng, L. Ding, **Y. Huang**, L. Zhang, "Epidemic spreading on weighted networks with adaptive topology based on infective information," Physica A: Statistical Mechanics and its Applications, vol. 463, pp.493-502, 2016.
-0. **Y. Huang**, L. Ding, Y. Feng, J. Pan, "Epidemic spreading in random walkers with heterogeneous interaction radius," Journal of Statistical Mechanics: Theory and Experiment, vol. 2016, no. 10, pp. 103501, 2016.
-0. Y. Feng, L. Ding, **Y. Huang**, Z. Guan, "Epidemic spreading on random surfer networks with infected avoidance strategy," Chinese Physics B, vol. 25, no. 12, pp. 128903, 2016.
-0. **Y. Huang**, L. Ding, Y. Feng, "A novel epidemic spreading model with decreasing infection rate based on infection times," Physica A: Statistical Mechanics and its Applications, vol. 444, pp. 1041-1048, 2016.
 {: reversed="reversed"}
+1. **Y. Huang**, L. Huang, Q.Zhu, "Reinforcement Learning for Feedback-Enabled Cyber Resilience", Annual Review in Control, Submitted, 2021.[PDF]
+1. **Y. Huang**, Q. Zhu, "Game-Theoretic Frameworks for Epidemic Spreading and Human Decision Making: A Review," Dynamic Games and Applications, Submitted, 2021. [PDF](https://arxiv.org/pdf/2106.00214.pdf)
+1. **Y. Huang**, Q. Zhu, "A Pursuit-Evasion Differential Game with Strategic Information Acquisition," Automatica, Submitted, 2020. [PDF](https://arxiv.org/abs/2102.05469)
+1. **Y. Huang**, Q. Zhu, "Infinite-Horizon Linear-Quadratic-Gaussian Control with Costly Measurements", IEEE Transactions on Automatic Control, Submitted, 2020. [PDF](https://arxiv.org/pdf/2012.14925.pdf)
+1. **Y. Huang**, Z. Xiong. Y. Huang, "Cross-Layer Coordinated Attacks on Cyber-Physical Systems: A LQG Game Framework with Controlled Observations," arXiv preprint arXiv:2012.02384, 2020. [PDF](https://arxiv.org/pdf/2012.02384.pdf)
+1. J. Chen, **Y. Huang**, R. Zhang, Q. Zhu, "Optimal curing strategy for competing epidemics spreading over complex networks," IEEE Transactions on Signal and Information Processing over Network, vol. 7, pp.294-308, 2021.
+1. **Y. Huang**, J. Chen, L. Huang, Q. Zhu, "Dynamic games for secure and resilient control system design," National Science Review, vol. 7, issue 7, pp. 1125-1141, 2020.
+1. **Y. Huang**, Q. Zhu, "A Differential Game Approach to Decentralized Virus-Resistant Weight Adaptation Policy over Complex Networks," IEEE Transactions on Control of Network Systems, vol. 7, no. 2, pp.944-955, 2020.
+1. Y. Feng, L. Ding, **Y. Huang**, L. Zhang, "Epidemic spreading on weighted networks with adaptive topology based on infective information," Physica A: Statistical Mechanics and its Applications, vol. 463, pp.493-502, 2016.
+1. **Y. Huang**, L. Ding, Y. Feng, J. Pan, "Epidemic spreading in random walkers with heterogeneous interaction radius," Journal of Statistical Mechanics: Theory and Experiment, vol. 2016, no. 10, pp. 103501, 2016.
+1. Y. Feng, L. Ding, **Y. Huang**, Z. Guan, "Epidemic spreading on random surfer networks with infected avoidance strategy," Chinese Physics B, vol. 25, no. 12, pp. 128903, 2016.
+1. **Y. Huang**, L. Ding, Y. Feng, "A novel epidemic spreading model with decreasing infection rate based on infection times," Physica A: Statistical Mechanics and its Applications, vol. 444, pp. 1041-1048, 2016.
+
 
 Conference Papers
 -----
