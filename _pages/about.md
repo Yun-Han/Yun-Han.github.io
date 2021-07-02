@@ -17,6 +17,7 @@ Education
 
 Working Experience
 ======
-* Content Creator, [National AI Circle (a startup)](https://www.aicircle.org/team), November 2020 - Present.
+* Applied Scientist Intern, Amazon ASCS, Seattle, WA; June 2021 - Aug 2021.
+* Content Creator, [Young Data Science League (a startup)](https://www.aicircle.org/team), November 2020 - Present.
 * Applied Scientist Intern, Amazon ASCS, Seattle, WA; June 2020 - Aug 2020.
 * Project Officer, Nanyang Technological University, Singapore; July 2016 - May 2017.
