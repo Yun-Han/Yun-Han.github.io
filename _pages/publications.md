@@ -11,7 +11,7 @@ Book Chapters
 
 Journal Papers
 -----
-{: reversed="reversed"}
+
 1. **Y. Huang**, L. Huang, Q.Zhu, "Reinforcement Learning for Feedback-Enabled Cyber Resilience", Annual Review in Control, Submitted, 2021.[PDF]
 1. **Y. Huang**, Q. Zhu, "Game-Theoretic Frameworks for Epidemic Spreading and Human Decision Making: A Review," Dynamic Games and Applications, Submitted, 2021. [PDF](https://arxiv.org/pdf/2106.00214.pdf)
 1. **Y. Huang**, Q. Zhu, "A Pursuit-Evasion Differential Game with Strategic Information Acquisition," Automatica, Submitted, 2020. [PDF](https://arxiv.org/abs/2102.05469)
@@ -24,17 +24,17 @@ Journal Papers
 1. **Y. Huang**, L. Ding, Y. Feng, J. Pan, "Epidemic spreading in random walkers with heterogeneous interaction radius," Journal of Statistical Mechanics: Theory and Experiment, vol. 2016, no. 10, pp. 103501, 2016.
 1. Y. Feng, L. Ding, **Y. Huang**, Z. Guan, "Epidemic spreading on random surfer networks with infected avoidance strategy," Chinese Physics B, vol. 25, no. 12, pp. 128903, 2016.
 1. **Y. Huang**, L. Ding, Y. Feng, "A novel epidemic spreading model with decreasing infection rate based on infection times," Physica A: Statistical Mechanics and its Applications, vol. 444, pp. 1041-1048, 2016.
-
+{: reversed="reversed"}
 
 Conference Papers
 -----
 1. **Y. Huang**, J. Chen, Q. Zhu, "Assets Defending Differential Games with Partial Information and Selected Observations", The IEEE Conference on Decision and Control, Submitted, 2021. [PDF](https://arxiv.org/abs/2103.13230)
 1. **Y. Huang**, Q. Zhu, "Self-Triggered Markov Decision Processes", The IEEE Conference on Decision and Control, Submitted, 2021. [PDF](https://arxiv.org/pdf/2102.08571.pdf)
 1. J. Chen, **Y. Huang**, Q. Zhu, "Transactive Resilience in Renewable Microgrids: A Contract-Theoretic Approach", The IEEE Conference on Decision and Control, Submitted, 2021. [PDF](https://arxiv.org/pdf/2103.17089.pdf)
-3. **Y. Huang**, Q. Zhu, "Cross-Layer Coordinated Jamming and actuator Attacks on Cyber-Physical Systems," European Control Conference, Invited Papers, To Appear, 2021.
-4. **Y. Huang**, Q. Zhu, "Deceptive reinforcement learning under adversarial manipulations on cost signals," 10th International Conference on Decision and Game Theory for Security, pp. 217-237, 2019. 
-5. **Y. Huang**, V. Kavitha, Q. Zhu, "Continuous-Time Markov Decision Processes with Controlled Observations," 57th Annual Allerton Conference on Communication, Control, and Computing, pp. 32-39, 2019.
-6. **Y. Huang**, Q. Zhu, "Achieving Social Optimum in Dynamic Weight Adaptation for Virus Mitigation: A Potential Differential Game Approach," IFAC-PapersOnline, vol. 52, issue 20, pp. 241-246, 2019.
+1. **Y. Huang**, Q. Zhu, "Cross-Layer Coordinated Jamming and actuator Attacks on Cyber-Physical Systems," European Control Conference, Invited Papers, To Appear, 2021.
+1. **Y. Huang**, Q. Zhu, "Deceptive reinforcement learning under adversarial manipulations on cost signals," 10th International Conference on Decision and Game Theory for Security, pp. 217-237, 2019. 
+1. **Y. Huang**, V. Kavitha, Q. Zhu, "Continuous-Time Markov Decision Processes with Controlled Observations," 57th Annual Allerton Conference on Communication, Control, and Computing, pp. 32-39, 2019.
+1. **Y. Huang**, Q. Zhu, "Achieving Social Optimum in Dynamic Weight Adaptation for Virus Mitigation: A Potential Differential Game Approach," IFAC-PapersOnline, vol. 52, issue 20, pp. 241-246, 2019.
 {: reversed="reversed"}
 
 Patents
